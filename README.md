@@ -26,11 +26,12 @@ WindowsAPI
 ## アプリケーションの内容
 - Warriorsモード
 プレイヤーのHPが０になる、または制限時間が０になるまで敵を倒し、高得点を狙います。
-
-
+https://github.com/june-mare/FantasyWarriors/blob/master/FantasyWarriors%20Warriors.png
+<img src="https://github.com/june-mare/FantasyWarriors/blob/master/FantasyWarriors%20Warriors.png" alt="Warriors" title="Warriors" width="400" height="340">
 - Winningモード
 七人の敵との勝ち抜き戦です。
 全員を倒すまでをタイムアタックできます。
+<img src="https://github.com/june-mare/FantasyWarriors/blob/master/FantasyWarriors%20Winning.png" alt="Winning" title="Winning" width="400" height="340">
 
 ## 起動方法
 実行モジュールより、FantasyWarriors.exeを開いてください。
